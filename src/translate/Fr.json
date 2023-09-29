@@ -1,0 +1,37 @@
+{
+    "welcome": "Bienvenue dans notre application !",
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "signup": "S'inscrire",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "forgotPassword": "Mot de passe oublié ?",
+    "resetPassword": "Réinitialiser le mot de passe",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "successMessage": "Action effectuée avec succès.",
+    "errorMessage": "Une erreur s'est produite. Veuillez réessayer plus tard.",
+    "loading": "Chargement...",
+    "profile": {
+        "title": "Profil",
+        "editProfile": "Modifier le profil",
+        "saveChanges": "Enregistrer les modifications"
+    },
+    "dashboard": {
+        "title": "Tableau de bord",
+        "welcomeMessage": "Bonjour, {{username}} ! Bienvenue.",
+        "recentActivity": "Activité récente",
+        "noActivity": "Aucune activité récente."
+    },
+    "errors": {
+        "requiredField": "Ce champ est requis.",
+        "invalidEmail": "Adresse e-mail invalide.",
+        "passwordLength": "Le mot de passe doit comporter au moins 8 caractères.",
+        "passwordUppercase": "Le mot de passe doit contenir au moins une lettre majuscule.",
+        "passwordLowercase": "Le mot de passe doit contenir au moins une lettre minuscule.",
+        "passwordDigit": "Le mot de passe doit contenir au moins un chiffre.",
+        "passwordSpecialChar": "Le mot de passe doit contenir au moins un caractère spécial.",
+        "passwordMatch": "Les mots de passe ne correspondent pas."
+    }
+}

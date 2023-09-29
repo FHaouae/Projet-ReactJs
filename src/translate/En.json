@@ -1,0 +1,37 @@
+{
+    "welcome": "Welcome to our App!",
+    "login": "Log In",
+    "logout": "Log Out",
+    "signup": "Sign Up",
+    "username": "Username",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset Password",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "successMessage": "Action completed successfully.",
+    "errorMessage": "An error occurred. Please try again later.",
+    "loading": "Loading...",
+    "profile": {
+        "title": "Profile",
+        "editProfile": "Edit Profile",
+        "saveChanges": "Save Changes"
+    },
+    "dashboard": {
+        "title": "Dashboard",
+        "welcomeMessage": "Hello, {{username}}! Welcome back.",
+        "recentActivity": "Recent Activity",
+        "noActivity": "No recent activity."
+    },
+    "errors": {
+        "requiredField": "This field is required.",
+        "invalidEmail": "Invalid email address.",
+        "passwordLength": "Password must be at least 8 characters long.",
+        "passwordUppercase": "Password must contain at least one uppercase letter.",
+        "passwordLowercase": "Password must contain at least one lowercase letter.",
+        "passwordDigit": "Password must contain at least one digit.",
+        "passwordSpecialChar": "Password must contain at least one special character.",
+        "passwordMatch": "Passwords do not match."
+    }
+}
